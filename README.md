@@ -1,3 +1,3 @@
 # First-Project
 This is my first git repository
-Aothor-Oshin
+Author-Oshin
